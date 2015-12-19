@@ -1,0 +1,19 @@
+{
+  "name": "general-hapi-services",
+  "version": "0.0.1",
+  "description": "A collection of general hapi service plugins to feed the service/feature hapi design architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbjordan/general-hapi-services.git"
+  },
+  "author": "Matt Jordan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbjordan/general-hapi-services/issues"
+  },
+  "homepage": "https://github.com/mbjordan/general-hapi-services#readme"
+}
