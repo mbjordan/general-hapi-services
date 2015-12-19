@@ -1,5 +1,7 @@
 'use strict';
 
+// npm install --save ramda inert vision hapi-swagger
+
 const R = require('ramda');
 
 const swaggerOptions = R.always({

@@ -1,5 +1,7 @@
 'use strict';
 
+// npm install --save felix-couchdb
+
 const localConfig = require('../config.json');
 const couchdb = require('felix-couchdb');
 
